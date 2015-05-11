@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
+title:               Thoughtless Banter
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://thoughtlessbanter.com
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,6 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Custom vars
-version:             1.0.0
-github:
-  repo:              https://github.com/poole/poole
+  name:              John Bellone
+  url:               https://twitter.com/johnbellone
+  email:             john.bellone.jr@gmail.com

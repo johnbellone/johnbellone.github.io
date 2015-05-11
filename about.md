@@ -1,30 +1,33 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
+![Me](/public/img/duct_tape.png)
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am the team lead of the Web Operations team at [Bloomberg][1]. I pride
+myself in being a polyglot hacker; Bloomberg isn't a place for titles,
+but over the past few years I have held the following roles:
+* Senior software engineer at Bloomberg Derivatives (New York, NY);
+* Senior software engineer at Bloomberg Government (Washington D.C.);
+* Infrastructure engineer at Bloomberg Government (Washington D.C.);
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Prior to my tenure at Bloomberg I ran a startup straight out of college
+with a [couple of awesome cats][2], was the editor-in-chef of my
+university's weekly newspaper and was a contractor at [Citigroup's][3]
+High Frequency trading department. I am a technologist and have shipped
+software written in Fortran, C/C++, Python, Ruby Java, C#, Go and
+much, much more.
 
-There are currently two themes built on Poole:
+As you can tell my hobbies include a lot of technology. I contribute
+to open source on [GitHub][4]. I enjoy traveling, hiking and riding
+my motorcycle like I stole it. You can sometimes find me trading
+quips on [Twitter][5] and on [Google+][6]. I am a writer, reader
+and a fan of whiskey on the rocks. More recently a drinker of old
+fashions.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[1]: http://careers.bloomberg.com "Careers at Bloomberg"
+[2]: http://zinkkinc.com
+[3]: http://citi.com
+[4]: https://github.com/johnbellone
+[5]: https://twitter.com/johnbellone
+[6]: https://plus.google.com/+JohnBellone

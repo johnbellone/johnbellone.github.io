@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Thoughtless Banter
-tagline:             The Jekyll Butler
+tagline:             Musings from a software engineer.
 url:                 http://thoughtlessbanter.com
 paginate:            1
 baseurl:             ""

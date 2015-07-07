@@ -1,0 +1,3 @@
+#+TITLE: Platform Engineering at Bloomberg
+#+AUTHOR: John Bellone
+#+EMAIL: jbellone@bellone.us

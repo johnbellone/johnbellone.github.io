@@ -1,11 +1,8 @@
-#+TITLE: Platform Engineering at Bloomberg
-#+AUTHOR: John Bellone
-#+EMAIL: jbellone@bellone.us
-#+DATE: 2015-08-11
-#+LAYOUT: post
-#+CATEGORIES: blog, devops, bloomberg, chef
-#+DESCRIPTION: A new role at Bloomberg.
-
+---
+layout: post
+title: Platform Engineering at Bloomberg
+tags: Chef, DevOps, Bloomberg, Infrastructure, Career
+---
 About two years ago, with a few others, I embarked on a journey to
 start a web operations team at Bloomberg. This stemmed from, at the
 time, the obvious need for a cohesive vision for the design and

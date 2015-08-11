@@ -4,12 +4,15 @@ title: About Me
 ---
 ![Me](/public/img/duct_tape.png)
 
-I am the team lead of the Web Operations team at [Bloomberg][1]. I pride
-myself in being a polyglot hacker; Bloomberg isn't a place for titles,
-but over the past few years I have held the following roles:
-* Senior software engineer at Bloomberg Derivatives (New York, NY);
-* Senior software engineer at Bloomberg Government (Washington D.C.);
-* Infrastructure engineer at Bloomberg Government (Washington D.C.);
+I am the team lead of Platform Engineering at [Bloomberg][1].
+
+I pride myself in being a polyglot hacker; Bloomberg isn't the place for
+titles, but over the plast few years I have held pleasure of wearing
+many hats:
+- Senior Software Engineer at Bloomberg Derivatives (New York, N.Y.)
+- Senior Software Engineer at Bloomberg Government (Washington D.C.)
+- Infrastructure Engineer at Bloomberg Government (Washington D.C.)
+- Team Lead of Bloomberg Web Operations (Washington D.C.)
 
 Prior to my tenure at Bloomberg I ran a startup straight out of college
 with a [couple of awesome cats][2], was the editor-in-chef of my

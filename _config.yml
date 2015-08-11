@@ -1,25 +1,19 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+---
+permalink: "pretty"
 relative_permalinks: true
 
-# Setup
-title:               Thoughtless Banter
-tagline:             Musings from a software engineer.
-url:                 http://thoughtlessbanter.com
-paginate:            1
-baseurl:             ""
+title: "Thoughtless Banter"
+tagline: "Musings from a software engineer."
+url: "http://thoughtlessbanter.com"
+paginate: 1
+baseurl: ""
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
-# About/contact
 author:
-  name:              John Bellone
-  url:               https://twitter.com/johnbellone
-  email:             jbellone@bellone.us
+  name: "John Bellone"
+  url: "https://twitter.com/johnbellone"
+  github: "johnbellone"
+  email: "jbellone[at]bellone.us"

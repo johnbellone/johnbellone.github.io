@@ -1,3 +1,0 @@
-#+TITLE: Reusable Chef Primitives
-#+AUTHOR: John Bellone
-#+EMAIL: jbellone@bellone.us

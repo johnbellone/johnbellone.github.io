@@ -1,7 +1,7 @@
 #+TITLE: Platform Engineering at Bloomberg
 #+AUTHOR: John Bellone
 #+EMAIL: jbellone@bellone.us
-#+DATE: 2015-07-21 2:40
+#+DATE: 2015-08-11
 #+LAYOUT: post
 #+CATEGORIES: blog, devops, bloomberg, chef
 #+DESCRIPTION: A new role at Bloomberg.

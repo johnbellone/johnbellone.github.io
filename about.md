@@ -9,6 +9,7 @@ I am the team lead of Platform Engineering at [Bloomberg][1].
 I pride myself in being a polyglot hacker; Bloomberg isn't the place for
 titles, but over the plast few years I have held pleasure of wearing
 many hats:
+
 - Senior Software Engineer at Bloomberg Derivatives (New York, N.Y.)
 - Senior Software Engineer at Bloomberg Government (Washington D.C.)
 - Infrastructure Engineer at Bloomberg Government (Washington D.C.)
